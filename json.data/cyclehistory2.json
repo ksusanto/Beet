@@ -5,7 +5,7 @@
   "Status" : 7,
   "CycleLength" : 9.03,
   "DesignCycleLengh" : 9.0,
-  "DateStamp" : ISODate("2014-05-29T12:29:10.48Z"),
+  "DateStamp" : "2014-05-29T12:29:10.48Z",
   "UTC" : "1401366550",
   "ModelUID" : "dd2015fe-d2e2-4d86-9437-62907041ba38",
   "ModelName" : "test 1",
@@ -14,18 +14,18 @@
   "CycleNumber" : "581044469576432014",
   "Pallet" : "30",
   "States" : [{
-      "StartTimeValue" : ISODate("2014-05-29T12:29:01.652Z"),
-      "pTime" : NumberLong(446956232),
+      "StartTimeValue" : "2014-05-29T12:29:01.652Z",
+      "pTime" : 446956232,
       "Name" : "",
       "binState" : "1111111111111111111111111111111111111000000001000000000000000001"
     }, {
-      "StartTimeValue" : ISODate("2014-05-29T12:29:10.652Z"),
-      "pTime" : NumberLong(446957135),
+      "StartTimeValue" : "2014-05-29T12:29:10.652Z",
+      "pTime" : 446957135,
       "Name" : "",
       "binState" : "1111111111111111111111111111111111111000000001000000000000000011"
     }, {
-      "StartTimeValue" : ISODate("2014-05-29T12:29:15.652Z"),
-      "pTime" : NumberLong(446957643),
+      "StartTimeValue" : "2014-05-29T12:29:15.652Z",
+      "pTime" : 446957643,
       "Name" : "",
       "binState" : "1111111111111111111111111111111111111000000001000000000000000000"
     }],
