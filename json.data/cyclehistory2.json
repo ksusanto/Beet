@@ -1,0 +1,69 @@
+/* 0 */
+{
+  "_id" : "afb3a5a7-efbd-4c68-a8d1-5db6be07553f",
+  "ObjId" : "4933010c-4464-4216-873d-aa8af0cb72d5",
+  "Name" : "ROBOT WELD",
+  "Status" : 7,
+  "CycleLength" : 9.03,
+  "DesignCycleLengh" : 9.0,
+  "DateStamp" : ISODate("2014-05-29T12:29:10.48Z"),
+  "UTC" : "1401366550",
+  "ModelUID" : "dd2015fe-d2e2-4d86-9437-62907041ba38",
+  "ModelName" : "test 1",
+  "ModelType" : "GOOD",
+  "PartNumber" : "1350",
+  "CycleNumber" : "581044469576432014",
+  "Pallet" : "30",
+  "States" : [{
+      "StartTimeValue" : ISODate("2014-05-29T12:29:01.652Z"),
+      "pTime" : NumberLong(446956232),
+      "Name" : "",
+      "binState" : "1111111111111111111111111111111111111000000001000000000000000001"
+    }, {
+      "StartTimeValue" : ISODate("2014-05-29T12:29:10.652Z"),
+      "pTime" : NumberLong(446957135),
+      "Name" : "",
+      "binState" : "1111111111111111111111111111111111111000000001000000000000000011"
+    }, {
+      "StartTimeValue" : ISODate("2014-05-29T12:29:15.652Z"),
+      "pTime" : NumberLong(446957643),
+      "Name" : "",
+      "binState" : "1111111111111111111111111111111111111000000001000000000000000000"
+    }],
+  "Flag" : 0
+}
+
+/* 1 */
+{
+  "_id" : "4a1b47b6-3c73-4c5a-831c-e305c3fc27c7",
+  "ObjId" : "4933010c-4464-4216-873d-aa8af0cb72d5",
+  "Name" : "ROBOT WELD",
+  "Status" : 7,
+  "CycleLength" : 9.01,
+  "DesignCycleLengh" : 9.0,
+  "DateStamp" : ISODate("2014-05-29T12:28:50.48Z"),
+  "UTC" : "1401366530",
+  "ModelUID" : "dd2015fe-d2e2-4d86-9437-62907041ba38",
+  "ModelName" : "test 1",
+  "ModelType" : "GOOD",
+  "PartNumber" : "1349",
+  "CycleNumber" : "581034469556302014",
+  "Pallet" : "29",
+  "States" : [{
+      "StartTimeValue" : ISODate("2014-05-29T12:28:41.417Z"),
+      "pTime" : NumberLong(446954222),
+      "Name" : "",
+      "binState" : "1111111111111111111111111111111111110111000001000000000000000001"
+    }, {
+      "StartTimeValue" : ISODate("2014-05-29T12:28:50.402Z"),
+      "pTime" : NumberLong(446955123),
+      "Name" : "",
+      "binState" : "1111111111111111111111111111111111110111000001000000000000000011"
+    }, {
+      "StartTimeValue" : ISODate("2014-05-29T12:28:55.652Z"),
+      "pTime" : NumberLong(446955630),
+      "Name" : "",
+      "binState" : "1111111111111111111111111111111111110111000001000000000000000000"
+    }],
+  "Flag" : 0
+}
