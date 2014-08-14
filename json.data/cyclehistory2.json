@@ -1,4 +1,4 @@
-/**/JSON_CALLBACK({posts:[{
+/**/JSON_CALLBACK({"found":1, "posts":[{
   "_id" : "afb3a5a7-efbd-4c68-a8d1-5db6be07553f",
   "ObjId" : "4933010c-4464-4216-873d-aa8af0cb72d5",
   "Name" : "ROBOT WELD",
